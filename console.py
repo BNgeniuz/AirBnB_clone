@@ -1,4 +1,3 @@
-
 #!/usr/bin/python
 """
 Module for console
